@@ -1,1 +1,1 @@
-Ce projet est un exemple pratique pour apprendre les bases de Git
+Apprendre les bases de Git
